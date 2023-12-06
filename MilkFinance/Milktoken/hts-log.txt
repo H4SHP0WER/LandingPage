@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 15 May 2021 08:28:17 at http://milktoken.finance +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://milktoken.finance -O1 "C:\Users\Damnson\Desktop\MilkFinance\Milktoken" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:29:02	Error: 	"Not Found" (404) at link milktoken.finance/images/fevicon.png (from milktoken.finance/)
+08:29:21	Error: 	"Not Found" (404) at link milktoken.finance/images/maps-and-flags.png (from milktoken.finance/)
+08:29:50	Error: 	"Not Found" (404) at link milktoken.finance/css/swiper.min.css (from milktoken.finance/css/style.css)
+08:29:56	Error: 	"Not Found" (404) at link milktoken.finance/images/why.jpg (from milktoken.finance/css/style.css)
+08:29:56	Error: 	"Not Found" (404) at link milktoken.finance/css/mCSB_buttons.png (from milktoken.finance/css/jquery.mCustomScrollbar.min.css)
+08:29:59	Error: 	"Not Found" (404) at link milktoken.finance/css/owl.video.play.png (from milktoken.finance/css/owl.carousel.min.css)
+08:29:59	Error: 	"Not Found" (404) at link milktoken.finance/css/images/ui-icons_444444_256x240.png (from milktoken.finance/css/jquery-ui.css)
+08:29:59	Error: 	"Not Found" (404) at link milktoken.finance/css/images/ui-icons_555555_256x240.png (from milktoken.finance/css/jquery-ui.css)
+08:29:59	Error: 	"Not Found" (404) at link milktoken.finance/css/images/ui-icons_ffffff_256x240.png (from milktoken.finance/css/jquery-ui.css)
+08:29:59	Error: 	"Not Found" (404) at link milktoken.finance/css/images/ui-icons_777620_256x240.png (from milktoken.finance/css/jquery-ui.css)
+08:29:59	Error: 	"Not Found" (404) at link milktoken.finance/css/images/ui-icons_cc0000_256x240.png (from milktoken.finance/css/jquery-ui.css)
+08:29:59	Error: 	"Not Found" (404) at link milktoken.finance/css/images/ui-icons_777777_256x240.png (from milktoken.finance/css/jquery-ui.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 42 seconds : 58 links scanned, 45 files written (2870658 bytes overall) [2890170 bytes received at 28335 bytes/sec], 53476 bytes transferred using HTTP compression in 8 files, ratio 56%, 3.2 requests per connection
+(12 errors, 0 warnings, 0 messages)
